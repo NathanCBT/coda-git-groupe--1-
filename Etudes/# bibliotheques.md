@@ -1,0 +1,8 @@
+# bibliotheques.md 
+
+
+À Orléans, le réseau de lecture publique est bien développé avec plusieurs bibliothèques et médiathèques réparties dans les quartiers. La **Médiathèque d’Orléans (place Gambetta)** est la principale : elle est ouverte le mardi et mercredi de 10h à 18h, le jeudi de 13h à 20h, puis le vendredi et samedi de 10h à 18h ; elle ferme le dimanche et le lundi.
+
+Dans les quartiers, plusieurs annexes complètent l’offre. La **Médiathèque Argonne** (place Mozart) ouvre du mardi au vendredi de 13h30 à 18h, et le samedi de 10h à 12h puis de 13h à 17h. La **Bibliothèque Saint-Marceau** (rue des Roses) fonctionne le mardi et vendredi de 14h à 18h, le mercredi et samedi de 10h à 12h et de 14h à 18h, ainsi que le jeudi de 14h à 19h. La **Médiathèque Madeleine** (place Louis Armand) est accessible le mardi, mercredi et vendredi de 14h à 18h, et le samedi de 10h à 12h puis de 14h à 18h.
+
+D’autres lieux de lecture complètent ce réseau : la **Médiathèque Blossières** (rue Charles Le Chauve) est ouverte le mardi matin de 10h à 12h, le mercredi de 14h à 18h, ainsi que le vendredi et samedi de 14h à 18h. La **Bibliothèque La Source** (place Minouflet) ouvre du mardi au samedi de 14h à 18h, sauf le jeudi. On trouve aussi la **Bibliothèque du Musée des Beaux-Arts** (rue Fernand Rabier), spécialisée et ouverte uniquement le jeudi de 14h à 17h30. Enfin, la **Médiathèque départementale du Loiret** (avenue du Parc Floral), destinée davantage au prêt aux bibliothèques locales, accueille du lundi au jeudi de 8h15 à 11h45 puis de 12h45 à 17h15, et le vendredi jusqu’à 16h15.

@@ -1,0 +1,7 @@
+# salles.md 
+
+Sur le campus universitaire d’Orléans, plusieurs salles et espaces d’étude sont accessibles aux étudiants. Les principales se trouvent dans les bibliothèques universitaires (BU). La BU Droit, Économie, Gestion propose des salles de travail en groupe ainsi que des espaces équipés de prises, d’ordinateurs et du wifi. Ces salles sont réservables via l’application Affluences, avec une limite fixée à deux heures par jour et six heures par semaine par étudiant.
+
+La BU Lettres, Langues et Sciences humaines offre, elle aussi, des salles de travail en groupe, des espaces connectés et des coins détente pour les révisions ou le travail collectif. Elle est généralement ouverte de 8h à 20h en période normale. La BU Sciences, Technologies et STAPS, située à proximité, dispose d’espaces similaires : salles pour le travail individuel ou en équipe, postes informatiques et zones silencieuses. Ses horaires d’ouverture s’alignent en général sur ceux des autres BU, de 8h à 20h, avec quelques variations selon les périodes de l’année.
+
+Ces bibliothèques constituent donc les principaux lieux d’étude disponibles sur le campus, adaptés aussi bien au travail individuel qu’aux projets en groupe, et offrent des services numériques et logistiques pour accompagner les étudiants.
